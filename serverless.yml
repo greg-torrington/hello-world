@@ -7,7 +7,7 @@
 # The `service` block is the name of the service
 service: hello-world-cd
 
-# exclude the code coverage files and circle ci files
+# exclude the cod coverage files and circle ci files
 package:
   exclude:
   - coverage/**
